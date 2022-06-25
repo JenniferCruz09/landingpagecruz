@@ -1,0 +1,25 @@
+
+.font{
+    font-style: cambria;
+}
+.font2{
+    font-size: 75px;
+    font-style: bold;
+}
+.box{
+    width: auto;
+    height: auto;
+    border: 10px solid black;
+    margin: 20px auto;
+}
+.box2{
+    width: auto;
+    height: auto;
+    border: 20px solid black;
+    margin: 20px auto;
+}
+.img{
+    position: relative;
+    width: 400px;
+    height: 400px;
+}
